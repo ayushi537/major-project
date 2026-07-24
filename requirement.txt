@@ -1,0 +1,22 @@
+1. Project Overview
+Project Name: Smart Tourist System
+
+Framework: Streamlit (Multi-Page Web Application)
+
+Objective: A smart travel assistant platform that provides tourists with personalized recommendations for places to visit, dining options, and travel expense predictions using Machine Learning.
+
+
+1. Project Overview
+Project Name: Smart Tourist System
+
+Framework: Streamlit (Multi-Page Web Application)
+
+Objective: A smart travel assistant platform that provides tourists with personalized recommendations for places to visit, dining options, and travel expense predictions using Machine Learning.
+
+
+streamlit
+pandas
+numpy
+scikit-learn
+joblib
+plotly
